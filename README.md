@@ -1,2 +1,4 @@
-# creative-coding
-This repository contains materials for the "Power of Creative Coding" session presented at CSTA 2024.
+# The Power of Creative Coding
+Thank you for your interest in this session!
+
+
