@@ -1,2 +1,5 @@
 - [The Power of Creative Coding](README.md)
-- 
+- [Websites](WebsitesAsCreativeWorks.md)
+- [Interactive Fiction](InteractiveFictionWithCode.md)
+- [Art](ArtWithCode.md)
+- [Music](MusicWithCode.md)
