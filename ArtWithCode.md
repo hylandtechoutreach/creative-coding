@@ -9,6 +9,14 @@ There are so many examples of Processing. The [Discover](https://openprocessing.
 - [3D ASCII](https://openprocessing.org/sketch/2139695)
 - [Noise Turbulence Doodles Brush](https://openprocessing.org/sketch/143842)
 
+### Examples from the Presentation
+Here are the examples shown in the slides:
+
+- [Cat Drawing](https://trinket.io/python/321262babf)
+- [THIS GUY WALKS AROUND AND SOMEHOW GETS MONEY](https://trinket.io/python/96098c74cb)
+- [240503 tiles](https://openprocessing.org/sketch/2259231)
+- [Reaction-Diffusion](https://openprocessing.org/sketch/2272173)
+
 Note that all of these can be forked and modified right in the browser!
 
 ## Lesson Plans & Use Cases
