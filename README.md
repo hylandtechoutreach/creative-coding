@@ -8,9 +8,9 @@ _Joseph Maxwell . . . CSTA 2024_
 Dig into the presented topics with one of these examples:
 
 - [CLOUDWATCHING](https://whenwe.love/cloudwatching/)
-- [the uncle who works for nintendo](https://ztul.itch.io/the-uncle-who-works-for-nintendo)
 - [Trending Processing projects](https://openprocessing.org/discover/#/trending)
 - [TunePad Quick Start](https://tunepad.com/project/67954)
+- [the uncle who works for nintendo](https://ztul.itch.io/the-uncle-who-works-for-nintendo)
 
 ## Resources for Creative Coding Platforms
 Check out the resource pages below to learn more about each topic:
