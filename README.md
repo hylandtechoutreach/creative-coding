@@ -1,5 +1,5 @@
 # The Power of Creative Coding
-_Joseph Maxwell . . . CSTA 2024_
+_Joseph Maxwell . . . CSTA 2024 ... [Session Link](https://conference.csteachers.org/event/f0c0e0a8-5ac1-4333-90c9-2eab9723af76/websitePage:03ec16c0-72ae-4baf-9e20-c727f880b8d1?session=20678710-115e-44b6-96e5-a213ccdc7fd2&shareLink=true)_
 
 ## Presentation Slides
 [Click here to access the slide deck for this session.](https://docs.google.com/presentation/d/1WlNUgsTT9SHMelXugLroWnqdZikJWdH79nTYUh-6C-8/edit?usp=sharing)
