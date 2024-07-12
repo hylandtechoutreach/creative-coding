@@ -21,4 +21,4 @@ Check out the resource pages below to learn more about each topic:
 - [Music with Code](MusicWithCode.md)
 
 ## Connect
-Send an email to [joseph.maxwell@hyland.com!](mailto:joseph.maxwell@hyland.com)
+Send an email to [joseph.maxwell@hyland.com](mailto:joseph.maxwell@hyland.com) or add [me on LinkedIn!](https://www.linkedin.com/in/joseph-maxwell-0bb34255/)
